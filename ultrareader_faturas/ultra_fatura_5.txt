@@ -1,0 +1,32 @@
+﻿arquivoDeFatura
+
+data 02/05/2018     contrato 13571468
+
+cliente Stark Enterprises       total 30,84
+
+
+
+--- ligações de longa distância ---
+
+
+
+data hora telefone destino descricao valor
+
+08/11/1955 13:38 48-9147-5632 49-9985-7596 Chamada de Longa Distância 3,08
+
+14/11/1955 09:45 48-9147-5632 49-3325-3671 Chamada para Outras Operadoras 17,20
+
+27/11/1955 06:51 48-9147-5632 47-3348-1756 Chamada Especial com tarifa reduzida 0,57
+
+
+
+--- serviços ---
+
+
+
+data telefone descricao valor
+
+05/11/1955 48-9147-5632 Pacote de torpedos 9,99
+
+
+---

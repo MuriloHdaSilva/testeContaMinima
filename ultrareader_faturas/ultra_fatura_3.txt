@@ -1,0 +1,45 @@
+﻿arquivoDeFatura
+
+data 02/05/2018     contrato 13572467
+
+cliente Monster Inc.       total 108,26
+
+
+
+--- ligações locais ---
+
+
+
+data hora telefone destino descricao valor
+
+12/11/1955 22:03 48-9147-5632 48-3265-4756 Chamada Local 15,32
+
+15/11/1955 02:13 48-9147-5632 48-9985-7596 Chamada Local para Outros Celulares 4,17
+
+17/11/1955 18:34 48-9147-5632 48-3325-3671 Chamada Local 7,50
+
+20/11/1955 13:56 48-9147-5632 48-3348-1756 Chamada Local 1,37
+
+20/11/1955 05:13 48-9147-5632 48-9785-1358 Chamada Local para Outros Celulares 24,02
+
+23/11/1955 11:26 48-9147-5632 48-9887-9841 Chamada Local Utilizando plano 0,00
+
+
+
+--- ligações de longa distância ---
+
+
+
+data hora telefone destino descricao valor
+
+02/11/1955 19:40 48-9147-5632 47-3265-4756 Chamada de Longa Distância 35,03
+
+08/11/1955 13:38 48-9147-5632 49-9985-7596 Chamada de Longa Distância 3,08
+
+14/11/1955 09:45 48-9147-5632 49-3325-3671 Chamada para Outras Operadoras 17,20
+
+27/11/1955 06:51 48-9147-5632 47-3348-1756 Chamada Especial com tarifa reduzida 0,57
+
+
+
+---

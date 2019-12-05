@@ -1,0 +1,21 @@
+﻿arquivoDeFatura
+
+data 02/05/2018     contrato 13572465
+
+cliente Mystery Incorporated       total 35,98
+
+
+
+--- serviços ---
+
+
+
+data telefone descricao valor
+
+05/11/1955 48-9147-5632 Pacote de torpedos 9,99
+
+08/11/1955 48-9147-5632 Internet 4G 25,99
+
+
+
+---
